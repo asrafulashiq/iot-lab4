@@ -1,0 +1,38 @@
+                    Quality=60/70  Signal level=-50 dBm  
+                    ESSID:"rpi_netreg"
+                    Quality=69/70  Signal level=-41 dBm  
+                    ESSID:"IOT-AP01"
+                    Quality=50/70  Signal level=-60 dBm  
+                    ESSID:"IOT-AP03"
+                    Quality=53/70  Signal level=-57 dBm  
+                    ESSID:"IOT-AP04"
+                    Quality=58/70  Signal level=-52 dBm  
+                    ESSID:"civil"
+                    Quality=70/70  Signal level=-37 dBm  
+                    ESSID:"duckietown"
+                    Quality=41/70  Signal level=-69 dBm  
+                    ESSID:"rpi_wpa2"
+                    Quality=41/70  Signal level=-69 dBm  
+                    ESSID:"rpi_netreg"
+                    Quality=41/70  Signal level=-69 dBm  
+                    ESSID:"eduroam"
+                    Quality=70/70  Signal level=-40 dBm  
+                    ESSID:"duckietown-guest"
+                    Quality=51/70  Signal level=-59 dBm  
+                    ESSID:"rpi_wpa2"
+                    Quality=51/70  Signal level=-59 dBm  
+                    ESSID:"eduroam"
+                    Quality=51/70  Signal level=-59 dBm  
+                    ESSID:"rpi_netreg"
+                    Quality=52/70  Signal level=-58 dBm  
+                    ESSID:"rpi_netreg"
+                    Quality=38/70  Signal level=-72 dBm  
+                    ESSID:"rpi_netreg"
+                    Quality=39/70  Signal level=-71 dBm  
+                    ESSID:"eduroam"
+                    Quality=39/70  Signal level=-71 dBm  
+                    ESSID:"rpi_wpa2"
+                    Quality=40/70  Signal level=-70 dBm  
+                    ESSID:"DIRECT-59-HP M227f LaserJet"
+                    Quality=31/70  Signal level=-79 dBm  
+                    ESSID:"rpi_wpa2"

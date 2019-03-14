@@ -1,0 +1,46 @@
+                    Quality=44/70  Signal level=-66 dBm  
+                    ESSID:"rpi_netreg"
+                    Quality=57/70  Signal level=-53 dBm  
+                    ESSID:"rpi_netreg"
+                    Quality=59/70  Signal level=-51 dBm  
+                    ESSID:"IOT-AP01"
+                    Quality=66/70  Signal level=-44 dBm  
+                    ESSID:"IOT-AP04"
+                    Quality=70/70  Signal level=-33 dBm  
+                    ESSID:"IOT-AP03"
+                    Quality=27/70  Signal level=-83 dBm  
+                    ESSID:"DIRECT-59-HP M227f LaserJet"
+                    Quality=53/70  Signal level=-57 dBm  
+                    ESSID:"civil"
+                    Quality=70/70  Signal level=-39 dBm  
+                    ESSID:"duckietown"
+                    Quality=70/70  Signal level=-39 dBm  
+                    ESSID:"duckietown-guest"
+                    Quality=57/70  Signal level=-53 dBm  
+                    ESSID:"rpi_wpa2"
+                    Quality=56/70  Signal level=-54 dBm  
+                    ESSID:"eduroam"
+                    Quality=56/70  Signal level=-54 dBm  
+                    ESSID:"rpi_netreg"
+                    Quality=36/70  Signal level=-74 dBm  
+                    ESSID:"rpi_netreg"
+                    Quality=35/70  Signal level=-75 dBm  
+                    ESSID:"eduroam"
+                    Quality=35/70  Signal level=-75 dBm  
+                    ESSID:"rpi_wpa2"
+                    Quality=31/70  Signal level=-79 dBm  
+                    ESSID:"rpi_wpa2"
+                    Quality=31/70  Signal level=-79 dBm  
+                    ESSID:"rpi_netreg"
+                    Quality=31/70  Signal level=-79 dBm  
+                    ESSID:"eduroam"
+                    Quality=57/70  Signal level=-53 dBm  
+                    ESSID:"rpi_wpa2"
+                    Quality=58/70  Signal level=-52 dBm  
+                    ESSID:"eduroam"
+                    Quality=28/70  Signal level=-82 dBm  
+                    ESSID:"rpi_netreg"
+                    Quality=29/70  Signal level=-81 dBm  
+                    ESSID:"eduroam"
+                    Quality=44/70  Signal level=-66 dBm  
+                    ESSID:"rpi_wpa2"
