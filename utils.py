@@ -36,7 +36,7 @@ def get_dict_for_loc(fldr, is_write=True):
                     pickle.dump(dict_rsi, fw)
     m_dict = {}
     for k, v in dict_rsi.iteritems():
-        m_dict[k] = np.median(v)
+        m_dict[k] = np.max(v)
     return m_dict
 
 
@@ -56,7 +56,7 @@ if __name__ == "__main__":
         dict_of_loc_essid_common[loc] = \
             {k: dict_of_loc_essid[loc][k] for k in common_keys}
 
-    fwrite = "loc_vector.pkl".format(loc)
+    fwrite = "loc_vector_max.pkl".format(loc)
     with open(fwrite, "wb") as fw:
         pickle.dump(dict_of_loc_essid_common, fw)
 
