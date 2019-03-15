@@ -15,7 +15,7 @@ WIFI_SCAN_CMD = "sudo iwlist wlan0 scan | " +\
     "grep -E ESSID\|Signal\ level"
 loc_names = ["G1", "R2", "Y1"]
 
-pickle_file = "./loc_vector_max.pkl"
+pickle_file = "./loc_vector_mean.pkl"
 with open(pickle_file, "rb") as fp:
     dict_of_loc_essid = pickle.load(fp)
 loc_keys = set(dict_of_loc_essid[loc_names[0]].keys())
